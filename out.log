@@ -432,3 +432,326 @@ java.lang.Throwable: Invalid file: file://C:/Codegym_tasks/CodeGymTasks/1.JavaSy
 2018-09-04 00:37:13 ERROR FileManagerImpl.logErrorHeader(128) - Vendor: JetBrains s.r.o
 2018-09-04 00:37:13 ERROR FileManagerImpl.logErrorHeader(129) - OS: Windows 10
 2018-09-04 00:37:13 ERROR FileManagerImpl.logErrorHeader(135) - Last Action: TaskChooser
+2018-09-05 18:56:35 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-05 18:57:07 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-05 18:58:19 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-05 19:02:33 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-05 19:03:28 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 00:48:56 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 00:48:56 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 00:48:56 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 00:48:56 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 00:48:56 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 00:48:56 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 00:48:56 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 00:48:56 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 13:41:15 ERROR PluginManager.error(115) - null
+java.lang.NullPointerException
+	at javafx.embed.swing.JFXPanel.getInputMethodRequests(JFXPanel.java:810)
+	at sun.awt.im.InputMethodAdapter.haveActiveClient(InputMethodAdapter.java:61)
+	at sun.awt.windows.WInputMethod.deactivate(WInputMethod.java:340)
+	at sun.awt.im.InputContext.deactivateInputMethod(InputContext.java:492)
+	at sun.awt.im.InputContext.focusLost(InputContext.java:458)
+	at sun.awt.im.InputContext.removeNotify(InputContext.java:627)
+	at java.awt.Component.removeNotify(Component.java:7031)
+	at java.awt.Container.removeNotify(Container.java:2821)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4759)
+	at javafx.embed.swing.JFXPanel.removeNotify(JFXPanel.java:829)
+	at java.awt.Container.removeNotify(Container.java:2805)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4759)
+	at java.awt.Container.removeNotify(Container.java:2805)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4759)
+	at java.awt.Container.removeNotify(Container.java:2805)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4759)
+	at java.awt.Container.removeNotify(Container.java:2805)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4759)
+	at java.awt.Container.removeNotify(Container.java:2805)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4759)
+	at java.awt.Container.removeNotify(Container.java:2805)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4759)
+	at java.awt.Container.removeNotify(Container.java:2805)
+	at javax.swing.JComponent.removeNotify(JComponent.java:4759)
+	at java.awt.Container.remove(Container.java:1207)
+	at java.awt.Container.remove(Container.java:1265)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.removeDeferredNow(JBTabsImpl.java:1028)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.lambda$removeDeferred$8(JBTabsImpl.java:1001)
+	at com.intellij.util.ui.UIUtil.invokeLaterIfNeeded(UIUtil.java:3097)
+	at com.intellij.ide.IdeEventQueue.ifFocusEventsInTheQueue(IdeEventQueue.java:183)
+	at com.intellij.ide.IdeEventQueue.executeWhenAllFocusEventsLeftTheQueue(IdeEventQueue.java:132)
+	at com.intellij.openapi.wm.impl.FocusManagerImpl.doWhenFocusSettlesDown(FocusManagerImpl.java:190)
+	at com.intellij.openapi.wm.impl.IdeFocusManagerImpl.doWhenFocusSettlesDown(IdeFocusManagerImpl.java:58)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.removeDeferred(JBTabsImpl.java:1007)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.lambda$executeSelectionChange$6(JBTabsImpl.java:915)
+	at com.intellij.openapi.util.ActionCallback$ExecutedExecutionCallback.doWhenExecuted(ActionCallback.java:177)
+	at com.intellij.openapi.util.ActionCallback.doWhenDone(ActionCallback.java:111)
+	at com.intellij.openapi.util.ActionCallback.doWhenProcessed(ActionCallback.java:129)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.executeSelectionChange(JBTabsImpl.java:910)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.access$1900(JBTabsImpl.java:51)
+	at com.intellij.ui.tabs.impl.JBTabsImpl$9.run(JBTabsImpl.java:863)
+	at com.intellij.openapi.fileEditor.impl.EditorTabbedContainer.lambda$null$2(EditorTabbedContainer.java:147)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:139)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:97)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:87)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:73)
+	at com.intellij.openapi.fileEditor.impl.EditorTabbedContainer.lambda$new$3(EditorTabbedContainer.java:145)
+	at com.intellij.ui.tabs.impl.JBTabsImpl._setSelected(JBTabsImpl.java:859)
+	at com.intellij.ui.tabs.impl.JBTabsImpl.select(JBTabsImpl.java:850)
+	at com.intellij.ui.tabs.impl.TabLabel$1.mousePressed(TabLabel.java:97)
+	at java.awt.AWTEventMulticaster.mousePressed(AWTEventMulticaster.java:279)
+	at java.awt.AWTEventMulticaster.mousePressed(AWTEventMulticaster.java:279)
+	at java.awt.Component.processMouseEvent(Component.java:6545)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3325)
+	at java.awt.Component.processEvent(Component.java:6313)
+	at java.awt.Container.processEvent(Container.java:2237)
+	at java.awt.Component.dispatchEventImpl(Component.java:4903)
+	at java.awt.Container.dispatchEventImpl(Container.java:2295)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4889)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4523)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4467)
+	at java.awt.Container.dispatchEventImpl(Container.java:2281)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:764)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:737)
+	at java.awt.EventQueue$4.run(EventQueue.java:735)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:781)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:718)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:382)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2018-09-06 13:41:16 ERROR PluginManager.logErrorHeader(120) - IntelliJ IDEA 2018.2.3  Build #IC-182.4323.46
+2018-09-06 13:41:16 ERROR PluginManager.logErrorHeader(126) - JDK: 1.8.0_152-release
+2018-09-06 13:41:16 ERROR PluginManager.logErrorHeader(127) - VM: OpenJDK 64-Bit Server VM
+2018-09-06 13:41:16 ERROR PluginManager.logErrorHeader(128) - Vendor: JetBrains s.r.o
+2018-09-06 13:41:16 ERROR PluginManager.logErrorHeader(129) - OS: Windows 10
+2018-09-06 13:41:16 ERROR PluginManager.logErrorHeader(135) - Last Action: $Undo
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:49 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:31:53 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:32:53 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:34:04 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:35:04 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:35:53 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:36:53 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:37:53 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:39:03 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:40:04 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:40:53 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:41:53 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 18:42:37 ERROR ApacheHttpClient.isServerUpdatesNow(494) - Error while checking server availability. : java.util.concurrent.ExecutionException
+2018-09-06 18:42:54 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:17:59 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:18:53 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:20:04 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:21:04 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:21:53 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 19:22:53 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
+2018-09-06 20:42:53 ERROR ApacheHttpClient.processExceptionSendEvent(102) - (super) Error while sending the event to the server.
