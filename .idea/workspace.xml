@@ -35,30 +35,30 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Compiler" value="11" />
-          <entry key="Validation" value="154" />
+          <entry key="Validation" value="164" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
           <entry key="info" value="1" />
-          <entry key="java" value="152" />
-          <entry key="tcs" value="103" />
+          <entry key="java" value="160" />
+          <entry key="tcs" value="109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="152" />
-          <entry key="PLAIN_TEXT" value="105" />
-          <entry key="UNKNOWN" value="165" />
+          <entry key="JAVA" value="160" />
+          <entry key="PLAIN_TEXT" value="111" />
+          <entry key="UNKNOWN" value="175" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9458" />
+          <entry key="java" value="9901" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9458" />
+          <entry key="JAVA" value="9901" />
         </counts>
       </usages-collector>
     </session>
@@ -67,27 +67,7 @@
     <favorites_list name="CodeGymTasks" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0532/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Validation">
-          <provider selected="true" editor-type-id="EditorTypeId" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0532/Conditions.tcs">
-          <provider selected="true" editor-type-id="EditorTypeId" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,11 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task04/task0424/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task04/task0427/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task04/task0429/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task04/task0428/Solution.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task04/task0430/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task04/task0432/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task04/task0431/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task04/task0433/Solution.java" />
@@ -163,6 +138,11 @@
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0530/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0531/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0532/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0601/Cat.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0602/Cat.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0603/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0604/Cat.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0606/Solution.java" />
       </list>
     </option>
   </component>
@@ -220,7 +200,7 @@
               <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
+              <item name="task06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -228,8 +208,8 @@
               <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0502" type="462c0819:PsiDirectoryNode" />
+              <item name="task06" type="462c0819:PsiDirectoryNode" />
+              <item name="task0602" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -237,8 +217,9 @@
               <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0503" type="462c0819:PsiDirectoryNode" />
+              <item name="task06" type="462c0819:PsiDirectoryNode" />
+              <item name="task0602" type="462c0819:PsiDirectoryNode" />
+              <item name="Cat.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -246,8 +227,8 @@
               <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0504" type="462c0819:PsiDirectoryNode" />
+              <item name="task06" type="462c0819:PsiDirectoryNode" />
+              <item name="task0603" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -255,8 +236,9 @@
               <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0505" type="462c0819:PsiDirectoryNode" />
+              <item name="task06" type="462c0819:PsiDirectoryNode" />
+              <item name="task0603" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -264,8 +246,8 @@
               <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0506" type="462c0819:PsiDirectoryNode" />
+              <item name="task06" type="462c0819:PsiDirectoryNode" />
+              <item name="task0604" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
@@ -273,233 +255,8 @@
               <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0507" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0508" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0509" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0510" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0511" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0512" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0513" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0514" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0515" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0516" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0517" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0518" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0519" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0520" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0521" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0522" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0523" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0524" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0525" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0526" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0527" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0528" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0529" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0530" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0531" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
-              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="task05" type="462c0819:PsiDirectoryNode" />
-              <item name="task0532" type="462c0819:PsiDirectoryNode" />
+              <item name="task06" type="462c0819:PsiDirectoryNode" />
+              <item name="task0606" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -511,7 +268,7 @@
     <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536256278216" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536262199154" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="G:/Git/git-bash.exe" />
@@ -535,7 +292,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -764,20 +521,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task05.task0526.Solution" />
-      <module name="1.JavaSyntax" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codegym.task.task05.task0526.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codegym.task.task05.task0532.Solution" />
       <module name="1.JavaSyntax" />
@@ -813,6 +556,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.codegym.task.task05.task0530.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task06.task0603.Solution" />
+      <module name="1.JavaSyntax" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.task.task06.task0603.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -913,19 +670,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -958,9 +715,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2760181" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2760181" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -969,7 +725,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49924585" visible="true" weight="0.32874617" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924585" weight="0.32874617" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -988,7 +744,7 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26093516" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2760181" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -997,18 +753,18 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32874617" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924585" visible="true" weight="0.32874617" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007542" side_tool="true" weight="0.32874617" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32874617" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962293" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
@@ -1031,66 +787,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0508/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
-          <folding>
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#706#707#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0509/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0509/Friend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
-          <folding>
-            <element signature="e#236#237#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0510/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0511/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0512/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0513/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0514/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0514/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0515/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0515/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1309,15 +1005,72 @@
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0532/Conditions.tcs">
       <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Validation">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0532/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0601/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0601/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0602/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0602/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0603/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0604/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0603/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0604/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0606/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Validation">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0606/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
   </component>
 </project>
