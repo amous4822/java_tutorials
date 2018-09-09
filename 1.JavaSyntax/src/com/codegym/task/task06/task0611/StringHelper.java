@@ -7,29 +7,18 @@ StringHelper class
 
 public class StringHelper {
     public static String multiply(String s) {
-        String result = "acde";
+        String result = s;
         //write your code here
-        //result =s.substring(0,s.length()/5);
-        for (int a=0;a<5;a++)
-            System.out.println(result);
-
-          /*  if(!result.equals(s.substring((5*a), 5*a + s.length()/5)));
-                result="";*/
-
-
-        return result;
+        return result+result+result+result+result;
     }
 
     public static String multiply(String s, int count) {
-        String result = "efdas";
-        //write your code here
-        //result =s.substring(0,s.length()/count);
-        for (int a=0;a<count;a++)
-            System.out.println(result);
+        String result = "";
+        //write your codāe here
 
-          /*  if(!result.equals(s.substring((count*a), count*a + s.length()/count)));
-                result="";
-*/
+        for (int a=0;a<count; a++)
+            result += s;
+
         return result;
     }
 

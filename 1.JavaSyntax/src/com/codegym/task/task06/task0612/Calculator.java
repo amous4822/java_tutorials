@@ -28,8 +28,8 @@ public class Calculator {
     }
 
     public static double percent(int a, int b) {
-        //write āyour code āāāāhereā
-        return ((b/(double)a) * 100);
+        //write āyour code āāāāhereāā
+        return ((b*(double)a) / 100);
     }
 
     public static void main(String[] args) {
