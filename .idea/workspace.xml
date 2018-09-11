@@ -19,7 +19,7 @@
     <session id="347274553">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -29,40 +29,40 @@
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.49" value="2" />
           <entry key="project.open.time.51" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Compiler" value="17" />
-          <entry key="Validation" value="262" />
+          <entry key="Validation" value="274" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
           <entry key="info" value="1" />
-          <entry key="java" value="246" />
+          <entry key="java" value="250" />
           <entry key="log" value="1" />
-          <entry key="tcs" value="158" />
+          <entry key="tcs" value="162" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="246" />
+          <entry key="JAVA" value="250" />
           <entry key="Log" value="1" />
-          <entry key="PLAIN_TEXT" value="160" />
-          <entry key="UNKNOWN" value="279" />
+          <entry key="PLAIN_TEXT" value="164" />
+          <entry key="UNKNOWN" value="291" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="15643" />
+          <entry key="java" value="16247" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15643" />
+          <entry key="JAVA" value="16247" />
         </counts>
       </usages-collector>
     </session>
@@ -72,22 +72,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0718/Solution.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0721/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="408">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/AppData/Local/Temp/Validation">
           <provider selected="true" editor-type-id="EditorTypeId" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0718/Conditions.tcs">
+        <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0721/Conditions.tcs">
           <provider selected="true" editor-type-id="EditorTypeId" />
         </entry>
       </file>
@@ -116,9 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0523/Circle.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0524/Circle.java" />
-        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0525/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0527/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0526/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task05/task0528/Solution.java" />
@@ -167,6 +164,9 @@
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0716/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0717/Solution.java" />
         <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0718/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0719/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0720/Solution.java" />
+        <option value="$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0721/Solution.java" />
       </list>
     </option>
   </component>
@@ -190,9 +190,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -379,6 +376,33 @@
             </path>
             <path>
               <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task07" type="462c0819:PsiDirectoryNode" />
+              <item name="task0719" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task07" type="462c0819:PsiDirectoryNode" />
+              <item name="task0720" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CodeGymTasks" type="462c0819:PsiDirectoryNode" />
+              <item name="1.JavaSyntax" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="task07" type="462c0819:PsiDirectoryNode" />
+              <item name="task0721" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CodeGymTasks" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
@@ -411,13 +435,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536607485787" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536693743808" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="G:/Git/git-bash.exe" />
@@ -441,7 +468,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -670,13 +697,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task07.task0715.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task07.task0720.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.task.task07.task0715.*" />
+          <option name="PATTERN" value="com.codegym.task.task07.task0720.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -727,12 +754,12 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task07.task0714.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task07.task0721.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.task.task07.task0714.*" />
+          <option name="PATTERN" value="com.codegym.task.task07.task0721.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -819,19 +846,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -866,7 +893,35 @@
     <frame x="-8" y="-8" width="1386" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28959277" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.29411766" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32874617" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924585" weight="0.32874617" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007542" side_tool="true" weight="0.32874617" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32874617" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962293" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29411766" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -892,7 +947,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -909,44 +964,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0607/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0620/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0619/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0618/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0621/Conditions.tcs">
-      <provider selected="true" editor-type-id="EditorTypeId" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0621/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task06/task0612/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1157,18 +1174,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0718/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0718/Conditions.tcs">
       <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Validation">
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0719/Conditions.tcs">
       <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0718/Solution.java">
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0719/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="340">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0720/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0720/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0721/Conditions.tcs">
+      <provider selected="true" editor-type-id="EditorTypeId" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/com/codegym/task/task07/task0721/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Validation">
+      <provider selected="true" editor-type-id="EditorTypeId" />
     </entry>
   </component>
 </project>
