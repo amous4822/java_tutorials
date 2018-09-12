@@ -15,21 +15,30 @@ public class Solution {
         int[] array = new int[20];
 
         int maximum=0;
-        int minimum;
+        int minimum=0;
 
-        //write your code hāāāerāeā
+        //write your code hāāāāerāāeā
 
         for (int a=0; a<20; a++)
             array[a] = Integer.parseInt(reader.readLine());
 
-        minimum = array[0];
-        for (int a=0; a<20; a++){
+        sort(array);
 
-            maximum = Math.max(array[a],maximum);
-            minimum = Math.min(array[a],minimum);
+        System.out.print(array[0] + " " + array[19]);
+    }
 
-        }
 
-        System.out.print(maximum + " " + minimum);
+    public static void sort(int[] array) {
+        //wrāite your code hereāā
+        int max, min;
+
+        for (int a = 0; a < 20; a++)
+            for (int b = 0; b < 19; b++) {
+
+                min = Math.min(array[b], array[b + 1]);
+                max = Math.max(array[b], array[b + 1]);
+                array[b] = max;
+                array[b + 1] = min;
+            }
     }
 }
